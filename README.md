@@ -1,3 +1,6 @@
+![Playwright](https://img.shields.io/badge/Playwright-UI%20Automation-blue)
+![Cross Browser](https://img.shields.io/badge/Cross--Browser-Supported-brightgreen)
+![CI](https://img.shields.io/badge/CI-GitHub%20Actions-black)
 # Playwright UI Automation
 
 Modern UI automation framework using **Playwright** with a clean, scalable structure.
