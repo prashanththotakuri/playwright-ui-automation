@@ -1,1 +1,27 @@
-# playwright-ui-automation
+# Playwright UI Automation
+
+Modern UI automation framework using **Playwright** with a clean, scalable structure.
+Built to demonstrate real-world automation practices: stable locators, parallel runs, and CI execution.
+
+---
+
+## 🚀 Key Features
+- Playwright tests with reliable locators
+- Cross-browser support (Chromium, Firefox, WebKit)
+- Parallel execution
+- CI-ready (GitHub Actions)
+- Simple structure for scaling test suites
+
+---
+
+## 🛠 Tech Stack
+```text
+Language  : JavaScript / TypeScript (can be expanded)
+Framework : Playwright
+CI/CD     : GitHub Actions
+```
+
+---
+
+## 📌 Purpose
+Shows strong **modern UI automation** capability expected from a Senior QA / SDET profile.
